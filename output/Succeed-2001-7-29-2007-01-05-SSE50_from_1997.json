@@ -1,0 +1,725 @@
+{
+    "buyHistory": [
+        {
+            "date": "2001-08-22",
+            "Pay": 1000,
+            "StockPrice": "1935.535034",
+            "stockBuy": 0.5166530093404654,
+            "accumulateResult": {
+                "resProfitPerYear": 3.3306690738754696e-13,
+                "resProfitTotal": 2.220446049250313e-14,
+                "duration": 0.06666666666666667,
+                "stockTotal": 0.5166530093404654,
+                "inputAmount": 1000,
+                "outputAmount": 1000.0000000000001,
+                "profitAmount": 1.1368683772161603e-13
+            }
+        },
+        {
+            "date": "2001-10-03",
+            "Pay": 1000,
+            "StockPrice": "1764.869995",
+            "stockBuy": 0.5666139731725679,
+            "accumulateResult": {
+                "resProfitPerYear": -24.259093858661053,
+                "resProfitTotal": -4.408730299427899,
+                "duration": 0.18173515981735158,
+                "stockTotal": 1.0832669825130332,
+                "inputAmount": 2000,
+                "outputAmount": 1911.825394011442,
+                "profitAmount": -88.17460598855791
+            }
+        },
+        {
+            "date": "2001-11-14",
+            "Pay": 1000,
+            "StockPrice": "1615.751953",
+            "stockBuy": 0.6189068799473084,
+            "accumulateResult": {
+                "resProfitPerYear": -28.04427044468147,
+                "resProfitTotal": -8.323641912805002,
+                "duration": 0.2968036529680365,
+                "stockTotal": 1.7021738624603415,
+                "inputAmount": 3000,
+                "outputAmount": 2750.29074261585,
+                "profitAmount": -249.70925738415008
+            }
+        },
+        {
+            "date": "2001-12-26",
+            "Pay": 1000,
+            "StockPrice": "1610.647949",
+            "stockBuy": 0.6208681423031447,
+            "accumulateResult": {
+                "resProfitPerYear": -15.684306527028431,
+                "resProfitTotal": -6.459928989671071,
+                "duration": 0.41187214611872147,
+                "stockTotal": 2.323042004763486,
+                "inputAmount": 4000,
+                "outputAmount": 3741.602840413157,
+                "profitAmount": -258.3971595868429
+            }
+        },
+        {
+            "date": "2002-02-06",
+            "Pay": 1000,
+            "StockPrice": "1517.812988",
+            "stockBuy": 0.6588426953162955,
+            "accumulateResult": {
+                "resProfitPerYear": -17.992792287104447,
+                "resProfitTotal": -9.481133470008462,
+                "duration": 0.5269406392694064,
+                "stockTotal": 2.9818847000797817,
+                "inputAmount": 5000,
+                "outputAmount": 4525.943326499577,
+                "profitAmount": -474.05667350042313
+            }
+        },
+        {
+            "date": "2002-03-20",
+            "Pay": 1000,
+            "StockPrice": "1673.265015",
+            "stockBuy": 0.5976339617666602,
+            "accumulateResult": {
+                "resProfitPerYear": -0.27301409646854646,
+                "resProfitTotal": -0.17527754321222666,
+                "duration": 0.6420091324200914,
+                "stockTotal": 3.579518661846442,
+                "inputAmount": 6000,
+                "outputAmount": 5989.483347407267,
+                "profitAmount": -10.516652592733408
+            }
+        },
+        {
+            "date": "2002-05-01",
+            "Pay": 1000,
+            "StockPrice": "1667.750000",
+            "stockBuy": 0.599610253335332,
+            "accumulateResult": {
+                "resProfitPerYear": -0.5709501657354422,
+                "resProfitTotal": -0.43225359579422973,
+                "duration": 0.7570776255707762,
+                "stockTotal": 4.179128915181774,
+                "inputAmount": 7000,
+                "outputAmount": 6969.742248294404,
+                "profitAmount": -30.257751705596093
+            }
+        },
+        {
+            "date": "2002-06-12",
+            "Pay": 1000,
+            "StockPrice": "1531.750000",
+            "stockBuy": 0.6528480496164518,
+            "accumulateResult": {
+                "resProfitPerYear": -8.579687384378234,
+                "resProfitTotal": -7.482741052128961,
+                "duration": 0.8721461187214611,
+                "stockTotal": 4.831976964798226,
+                "inputAmount": 8000,
+                "outputAmount": 7401.380715829683,
+                "profitAmount": -598.6192841703169
+            }
+        },
+        {
+            "date": "2002-07-24",
+            "Pay": 1000,
+            "StockPrice": "1673.682007",
+            "stockBuy": 0.5974850633618599,
+            "accumulateResult": {
+                "resProfitPerYear": 0.9813570780376517,
+                "resProfitTotal": 0.9688100469029237,
+                "duration": 0.9872146118721461,
+                "stockTotal": 5.429462028160086,
+                "inputAmount": 9000,
+                "outputAmount": 9087.192904221263,
+                "profitAmount": 87.19290422126323
+            }
+        },
+        {
+            "date": "2002-09-04",
+            "Pay": 1000,
+            "StockPrice": "1674.453003",
+            "stockBuy": 0.597209953464427,
+            "accumulateResult": {
+                "resProfitPerYear": 0.8289975353040963,
+                "resProfitTotal": 0.9137899772712732,
+                "duration": 1.102283105022831,
+                "stockTotal": 6.026671981624513,
+                "inputAmount": 10000,
+                "outputAmount": 10091.378997727126,
+                "profitAmount": 91.37899772712626
+            }
+        },
+        {
+            "date": "2002-10-16",
+            "Pay": 1000,
+            "StockPrice": "1524.907959",
+            "stockBuy": 0.6557772841947637,
+            "accumulateResult": {
+                "resProfitPerYear": -6.048001924487736,
+                "resProfitTotal": -7.362544808531646,
+                "duration": 1.217351598173516,
+                "stockTotal": 6.682449265819276,
+                "inputAmount": 11000,
+                "outputAmount": 10190.12007106152,
+                "profitAmount": -809.8799289384806
+            }
+        },
+        {
+            "date": "2002-11-27",
+            "Pay": 1000,
+            "StockPrice": "1365.823975",
+            "stockBuy": 0.7321587688486725,
+            "accumulateResult": {
+                "resProfitPerYear": -11.713964394677054,
+                "resProfitTotal": -15.607921508524036,
+                "duration": 1.3324200913242008,
+                "stockTotal": 7.414608034667949,
+                "inputAmount": 12000,
+                "outputAmount": 10127.049418977116,
+                "profitAmount": -1872.9505810228839
+            }
+        },
+        {
+            "date": "2003-01-08",
+            "Pay": 1000,
+            "StockPrice": "1331.441040",
+            "stockBuy": 0.7510659277860325,
+            "accumulateResult": {
+                "resProfitPerYear": -11.308108667831302,
+                "resProfitTotal": -16.36835820868732,
+                "duration": 1.447488584474886,
+                "stockTotal": 8.165673962453981,
+                "inputAmount": 13000,
+                "outputAmount": 10872.113432870648,
+                "profitAmount": -2127.8865671293515
+            }
+        },
+        {
+            "date": "2003-02-19",
+            "Pay": 1000,
+            "StockPrice": "1496.651001",
+            "stockBuy": 0.6681584413011729,
+            "accumulateResult": {
+                "resProfitPerYear": -3.560262585905088,
+                "resProfitTotal": -5.563113501811512,
+                "duration": 1.5625570776255708,
+                "stockTotal": 8.833832403755155,
+                "inputAmount": 14000,
+                "outputAmount": 13221.164109746389,
+                "profitAmount": -778.8358902536111
+            }
+        },
+        {
+            "date": "2003-04-02",
+            "Pay": 1000,
+            "StockPrice": "1522.490967",
+            "stockBuy": 0.6568183468243854,
+            "accumulateResult": {
+                "resProfitPerYear": -2.187893694841282,
+                "resProfitTotal": -3.670466408605877,
+                "duration": 1.6776255707762557,
+                "stockTotal": 9.49065075057954,
+                "inputAmount": 15000,
+                "outputAmount": 14449.430038709119,
+                "profitAmount": -550.5699612908811
+            }
+        },
+        {
+            "date": "2003-05-14",
+            "Pay": 1000,
+            "StockPrice": "1480.110962",
+            "stockBuy": 0.6756250211462187,
+            "accumulateResult": {
+                "resProfitPerYear": -3.321759575176052,
+                "resProfitTotal": -5.954898672210584,
+                "duration": 1.7926940639269406,
+                "stockTotal": 10.16627577172576,
+                "inputAmount": 16000,
+                "outputAmount": 15047.216212446307,
+                "profitAmount": -952.7837875536934
+            }
+        },
+        {
+            "date": "2003-06-25",
+            "Pay": 1000,
+            "StockPrice": "1512.487061",
+            "stockBuy": 0.6611626808488776,
+            "accumulateResult": {
+                "resProfitPerYear": -1.9229160679023638,
+                "resProfitTotal": -3.668467274747067,
+                "duration": 1.9077625570776258,
+                "stockTotal": 10.827438452574636,
+                "inputAmount": 17000,
+                "outputAmount": 16376.360563293,
+                "profitAmount": -623.6394367070006
+            }
+        },
+        {
+            "date": "2003-08-06",
+            "Pay": 1000,
+            "StockPrice": "1493.026001",
+            "stockBuy": 0.6697806999544679,
+            "accumulateResult": {
+                "resProfitPerYear": -2.2914883078915396,
+                "resProfitTotal": -4.635293700438137,
+                "duration": 2.0228310502283104,
+                "stockTotal": 11.497219152529103,
+                "inputAmount": 18000,
+                "outputAmount": 17165.647133921135,
+                "profitAmount": -834.3528660788652
+            }
+        },
+        {
+            "date": "2003-09-17",
+            "Pay": 1000,
+            "StockPrice": "1406.248047",
+            "stockBuy": 0.7111120987035938,
+            "accumulateResult": {
+                "resProfitPerYear": -4.510226247899731,
+                "resProfitTotal": -9.642410635920795,
+                "duration": 2.1378995433789956,
+                "stockTotal": 12.208331251232698,
+                "inputAmount": 19000,
+                "outputAmount": 17167.941979175048,
+                "profitAmount": -1832.058020824952
+            }
+        },
+        {
+            "date": "2003-10-29",
+            "Pay": 1000,
+            "StockPrice": "1372.345947",
+            "stockBuy": 0.7286792387779756,
+            "accumulateResult": {
+                "resProfitPerYear": -4.9844162263324225,
+                "resProfitTotal": -11.229730438686836,
+                "duration": 2.2529680365296803,
+                "stockTotal": 12.937010490010673,
+                "inputAmount": 20000,
+                "outputAmount": 17754.053912262632,
+                "profitAmount": -2245.9460877373676
+            }
+        },
+        {
+            "date": "2003-12-10",
+            "Pay": 1000,
+            "StockPrice": "1449.567017",
+            "stockBuy": 0.689861171144459,
+            "accumulateResult": {
+                "resProfitPerYear": -2.507474782164036,
+                "resProfitTotal": -5.937791881416754,
+                "duration": 2.3680365296803654,
+                "stockTotal": 13.626871661155132,
+                "inputAmount": 21000,
+                "outputAmount": 19753.06370490248,
+                "profitAmount": -1246.9362950975192
+            }
+        },
+        {
+            "date": "2004-01-21",
+            "Pay": 1000,
+            "StockPrice": "1600.430054",
+            "stockBuy": 0.6248320552970571,
+            "accumulateResult": {
+                "resProfitPerYear": 1.480651590862899,
+                "resProfitTotal": 3.67661340233445,
+                "duration": 2.4831050228310505,
+                "stockTotal": 14.25170371645219,
+                "inputAmount": 22000,
+                "outputAmount": 22808.854948513577,
+                "profitAmount": 808.8549485135773
+            }
+        },
+        {
+            "date": "2004-03-03",
+            "Pay": 1000,
+            "StockPrice": "1686.963989",
+            "stockBuy": 0.5927808812284018,
+            "accumulateResult": {
+                "resProfitPerYear": 3.4173018903488597,
+                "resProfitTotal": 8.878743267618727,
+                "duration": 2.598173515981735,
+                "stockTotal": 14.84448459768059,
+                "inputAmount": 23000,
+                "outputAmount": 25042.11095155231,
+                "profitAmount": 2042.1109515523094
+            }
+        },
+        {
+            "date": "2004-04-14",
+            "Pay": 1000,
+            "StockPrice": "1714.526001",
+            "stockBuy": 0.5832515805632277,
+            "accumulateResult": {
+                "resProfitPerYear": 3.7643386367010288,
+                "resProfitTotal": 10.213561725697495,
+                "duration": 2.7132420091324203,
+                "stockTotal": 15.42773617824382,
+                "inputAmount": 24000,
+                "outputAmount": 26451.254814167398,
+                "profitAmount": 2451.254814167398
+            }
+        },
+        {
+            "date": "2004-05-26",
+            "Pay": 1000,
+            "StockPrice": "1515.156006",
+            "stockBuy": 0.6599980437921982,
+            "accumulateResult": {
+                "resProfitPerYear": -0.8833158453376536,
+                "resProfitTotal": -2.4982914822015645,
+                "duration": 2.828310502283105,
+                "stockTotal": 16.08773422203602,
+                "inputAmount": 25000,
+                "outputAmount": 24375.42712944961,
+                "profitAmount": -624.5728705503898
+            }
+        },
+        {
+            "date": "2004-07-07",
+            "Pay": 1000,
+            "StockPrice": "1448.949951",
+            "stockBuy": 0.6901549631233604,
+            "accumulateResult": {
+                "resProfitPerYear": -2.2079258748078394,
+                "resProfitTotal": -6.49876264338417,
+                "duration": 2.9433789954337897,
+                "stockTotal": 16.77788918515938,
+                "inputAmount": 26000,
+                "outputAmount": 24310.321712720117,
+                "profitAmount": -1689.678287279883
+            }
+        },
+        {
+            "date": "2004-08-18",
+            "Pay": 1000,
+            "StockPrice": "1359.870972",
+            "stockBuy": 0.7353638842141562,
+            "accumulateResult": {
+                "resProfitPerYear": -3.8560298824497994,
+                "resProfitTotal": -11.793464909885277,
+                "duration": 3.058447488584475,
+                "stockTotal": 17.513253069373537,
+                "inputAmount": 27000,
+                "outputAmount": 23815.764474330976,
+                "profitAmount": -3184.2355256690244
+            }
+        },
+        {
+            "date": "2004-09-29",
+            "Pay": 1000,
+            "StockPrice": "1436.706055",
+            "stockBuy": 0.6960366015858407,
+            "accumulateResult": {
+                "resProfitPerYear": -2.0691372902051945,
+                "resProfitTotal": -6.566440258870365,
+                "duration": 3.1735159817351595,
+                "stockTotal": 18.20928967095938,
+                "inputAmount": 28000,
+                "outputAmount": 26161.396727516298,
+                "profitAmount": -1838.6032724837023
+            }
+        },
+        {
+            "date": "2004-11-10",
+            "Pay": 1000,
+            "StockPrice": "1310.318970",
+            "stockBuy": 0.7631729547500942,
+            "accumulateResult": {
+                "resProfitPerYear": -4.341058933571108,
+                "resProfitTotal": -14.275939013506445,
+                "duration": 3.2885844748858446,
+                "stockTotal": 18.972462625709472,
+                "inputAmount": 29000,
+                "outputAmount": 24859.97768608313,
+                "profitAmount": -4140.02231391687
+            }
+        },
+        {
+            "date": "2004-12-22",
+            "Pay": 1000,
+            "StockPrice": "1277.182983",
+            "stockBuy": 0.7829731630553678,
+            "accumulateResult": {
+                "resProfitPerYear": -4.670172148985069,
+                "resProfitTotal": -15.895645296134564,
+                "duration": 3.4036529680365293,
+                "stockTotal": 19.75543578876484,
+                "inputAmount": 30000,
+                "outputAmount": 25231.306411159632,
+                "profitAmount": -4768.693588840368
+            }
+        },
+        {
+            "date": "2005-02-02",
+            "Pay": 1000,
+            "StockPrice": "1189.501953",
+            "stockBuy": 0.8406879849822323,
+            "accumulateResult": {
+                "resProfitPerYear": -5.959707348989438,
+                "resProfitTotal": -20.970550151284296,
+                "duration": 3.5187214611872144,
+                "stockTotal": 20.59612377374707,
+                "inputAmount": 31000,
+                "outputAmount": 24499.12945310187,
+                "profitAmount": -6500.870546898132
+            }
+        },
+        {
+            "date": "2005-03-16",
+            "Pay": 1000,
+            "StockPrice": "1267.052002",
+            "stockBuy": 0.7892335897986293,
+            "accumulateResult": {
+                "resProfitPerYear": -4.21705041486728,
+                "resProfitTotal": -15.323875434481193,
+                "duration": 3.6337899543378995,
+                "stockTotal": 21.3853573635457,
+                "inputAmount": 32000,
+                "outputAmount": 27096.35986096602,
+                "profitAmount": -4903.6401390339815
+            }
+        },
+        {
+            "date": "2005-04-27",
+            "Pay": 1000,
+            "StockPrice": "1165.098999",
+            "stockBuy": 0.8582961626937249,
+            "accumulateResult": {
+                "resProfitPerYear": -5.7261403233387265,
+                "resProfitTotal": -21.466489522653397,
+                "duration": 3.748858447488584,
+                "stockTotal": 22.243653526239427,
+                "inputAmount": 33000,
+                "outputAmount": 25916.058457524377,
+                "profitAmount": -7083.941542475623
+            }
+        },
+        {
+            "date": "2005-06-08",
+            "Pay": 1000,
+            "StockPrice": "1044.178955",
+            "stockBuy": 0.9576902457299572,
+            "accumulateResult": {
+                "resProfitPerYear": -7.439585545497676,
+                "resProfitTotal": -28.746015016438964,
+                "duration": 3.8639269406392693,
+                "stockTotal": 23.201343771969384,
+                "inputAmount": 34000,
+                "outputAmount": 24226.354894410753,
+                "profitAmount": -9773.645105589247
+            }
+        },
+        {
+            "date": "2005-07-20",
+            "Pay": 1000,
+            "StockPrice": "1013.984009",
+            "stockBuy": 0.9862088466130831,
+            "accumulateResult": {
+                "resProfitPerYear": -7.521071660423543,
+                "resProfitTotal": -29.926309794032303,
+                "duration": 3.978995433789954,
+                "stockTotal": 24.187552618582465,
+                "inputAmount": 35000,
+                "outputAmount": 24525.791572088696,
+                "profitAmount": -10474.208427911304
+            }
+        },
+        {
+            "date": "2005-08-31",
+            "Pay": 1000,
+            "StockPrice": "1145.812988",
+            "stockBuy": 0.8727427690844085,
+            "accumulateResult": {
+                "resProfitPerYear": -4.943192137925877,
+                "resProfitTotal": -20.237744615818908,
+                "duration": 4.094063926940639,
+                "stockTotal": 25.060295387666873,
+                "inputAmount": 36000,
+                "outputAmount": 28714.411938305195,
+                "profitAmount": -7285.588061694805
+            }
+        },
+        {
+            "date": "2005-10-12",
+            "Pay": 1000,
+            "StockPrice": "1157.484985",
+            "stockBuy": 0.863942092518807,
+            "accumulateResult": {
+                "resProfitPerYear": -4.490290667598863,
+                "resProfitTotal": -18.90022802462389,
+                "duration": 4.209132420091324,
+                "stockTotal": 25.92423748018568,
+                "inputAmount": 37000,
+                "outputAmount": 30006.91563088916,
+                "profitAmount": -6993.084369110838
+            }
+        },
+        {
+            "date": "2005-11-23",
+            "Pay": 1000,
+            "StockPrice": "1096.560059",
+            "stockBuy": 0.9119427538806609,
+            "accumulateResult": {
+                "resProfitPerYear": -5.216976434180712,
+                "resProfitTotal": -22.55925426104627,
+                "duration": 4.3242009132420085,
+                "stockTotal": 26.836180234066344,
+                "inputAmount": 38000,
+                "outputAmount": 29427.48338080242,
+                "profitAmount": -8572.51661919758
+            }
+        },
+        {
+            "date": "2006-01-06",
+            "Pay": 1000,
+            "StockPrice": "1198.811035",
+            "stockBuy": 0.8341598223609946,
+            "accumulateResult": {
+                "resProfitPerYear": -3.362360661797062,
+                "resProfitTotal": -14.944848713211234,
+                "duration": 4.444748858447489,
+                "stockTotal": 27.67034005642734,
+                "inputAmount": 39000,
+                "outputAmount": 33171.50900184762,
+                "profitAmount": -5828.4909981523815
+            }
+        },
+        {
+            "date": "2006-02-28",
+            "Pay": 1000,
+            "StockPrice": "1294.807007",
+            "stockBuy": 0.772315869927942,
+            "accumulateResult": {
+                "resProfitPerYear": -1.727822095457268,
+                "resProfitTotal": -7.930624522162766,
+                "duration": 4.5899543378995435,
+                "stockTotal": 28.44265592635528,
+                "inputAmount": 40000,
+                "outputAmount": 36827.750191134895,
+                "profitAmount": -3172.2498088651046
+            }
+        },
+        {
+            "date": "2006-04-11",
+            "Pay": 1000,
+            "StockPrice": "1360.978027",
+            "stockBuy": 0.7347657200640462,
+            "accumulateResult": {
+                "resProfitPerYear": -0.6688079594505106,
+                "resProfitTotal": -3.146756718802768,
+                "duration": 4.705022831050228,
+                "stockTotal": 29.177421646419326,
+                "inputAmount": 41000,
+                "outputAmount": 39709.82974529087,
+                "profitAmount": -1290.1702547091336
+            }
+        },
+        {
+            "date": "2006-05-30",
+            "Pay": 1000,
+            "StockPrice": "1654.979980",
+            "stockBuy": 0.6042369165094069,
+            "accumulateResult": {
+                "resProfitPerYear": 3.585767898104169,
+                "resProfitTotal": 17.352496887720537,
+                "duration": 4.8392694063926935,
+                "stockTotal": 29.781658562928733,
+                "inputAmount": 42000,
+                "outputAmount": 49288.048692842625,
+                "profitAmount": 7288.048692842625
+            }
+        },
+        {
+            "date": "2006-07-11",
+            "Pay": 1000,
+            "StockPrice": "1736.985962",
+            "stockBuy": 0.5757098916611739,
+            "accumulateResult": {
+                "resProfitPerYear": 4.56744336921158,
+                "resProfitTotal": 22.628657788103034,
+                "duration": 4.954337899543379,
+                "stockTotal": 30.357368454589906,
+                "inputAmount": 43000,
+                "outputAmount": 52730.3228488843,
+                "profitAmount": 9730.322848884301
+            }
+        },
+        {
+            "date": "2006-08-22",
+            "Pay": 1000,
+            "StockPrice": "1601.522949",
+            "stockBuy": 0.6244056637617373,
+            "accumulateResult": {
+                "resProfitPerYear": 2.5186839247414325,
+                "resProfitTotal": 12.768232389259992,
+                "duration": 5.069406392694064,
+                "stockTotal": 30.981774118351645,
+                "inputAmount": 44000,
+                "outputAmount": 49618.0222512744,
+                "profitAmount": 5618.0222512744
+            }
+        },
+        {
+            "date": "2006-10-10",
+            "Pay": 1000,
+            "StockPrice": "1784.219971",
+            "stockBuy": 0.5604690095692243,
+            "accumulateResult": {
+                "resProfitPerYear": 4.816402882210698,
+                "resProfitTotal": 25.062889153275393,
+                "duration": 5.203652968036529,
+                "stockTotal": 31.54224312792087,
+                "inputAmount": 45000,
+                "outputAmount": 56278.30011897392,
+                "profitAmount": 11278.300118973923
+            }
+        },
+        {
+            "date": "2006-11-21",
+            "Pay": 1000,
+            "StockPrice": "2013.067017",
+            "stockBuy": 0.496754450574757,
+            "accumulateResult": {
+                "resProfitPerYear": 7.5601077120530435,
+                "resProfitTotal": 40.210107136983495,
+                "duration": 5.318721461187215,
+                "stockTotal": 32.038997578495625,
+                "inputAmount": 46000,
+                "outputAmount": 64496.64928301241,
+                "profitAmount": 18496.64928301241
+            }
+        },
+        {
+            "date": "2007-01-05",
+            "Pay": 1000,
+            "StockPrice": "2668.576904",
+            "stockBuy": 0.374731565165341,
+            "accumulateResult": {
+                "resProfitPerYear": 15.442720011206884,
+                "resProfitTotal": 84.03942333039436,
+                "duration": 5.442009132420091,
+                "stockTotal": 32.413729143660966,
+                "inputAmount": 47000,
+                "outputAmount": 86498.52896528535,
+                "profitAmount": 39498.52896528535
+            }
+        }
+    ],
+    "resProfitPerYear": 15.442720011206884,
+    "resProfitTotal": 84.03942333039436,
+    "duration": 5.442009132420091,
+    "stockTotal": 32.413729143660966,
+    "startPrice": "2190.977051",
+    "endPrice": "2668.576904",
+    "inputAmount": 47000,
+    "outputAmount": 86498.52896528535,
+    "profitAmount": 39498.52896528535,
+    "startDate": "2001-7-29",
+    "amountPerCycle": 1000,
+    "cycleDuration": 30,
+    "targetProfitPerYear": 10,
+    "stockName": "SSE50_from_1997",
+    "endDate": "2007-01-05",
+    "succeed": true
+}

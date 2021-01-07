@@ -1,0 +1,304 @@
+{
+    "buyHistory": [
+        {
+            "date": "2018-09-13",
+            "Pay": 1000,
+            "StockPrice": "2679.208008",
+            "stockBuy": 0.37324462938825315,
+            "accumulateResult": {
+                "resProfitPerYear": 0,
+                "resProfitTotal": 0,
+                "duration": 0.02009132420091324,
+                "stockTotal": 0.37324462938825315,
+                "inputAmount": 1000,
+                "outputAmount": 1000,
+                "profitAmount": 0
+            }
+        },
+        {
+            "date": "2018-11-02",
+            "Pay": 1000,
+            "StockPrice": "2649.250977",
+            "stockBuy": 0.3774651811707155,
+            "accumulateResult": {
+                "resProfitPerYear": -3.5591641051796628,
+                "resProfitTotal": -0.559065046658358,
+                "duration": 0.15707762557077626,
+                "stockTotal": 0.7507098105589687,
+                "inputAmount": 2000,
+                "outputAmount": 1988.8186990668328,
+                "profitAmount": -11.181300933167222
+            }
+        },
+        {
+            "date": "2018-12-14",
+            "Pay": 1000,
+            "StockPrice": "2627.282959",
+            "stockBuy": 0.380621355067374,
+            "accumulateResult": {
+                "resProfitPerYear": -3.3894668660975245,
+                "resProfitTotal": -0.9224302521434358,
+                "duration": 0.27214611872146116,
+                "stockTotal": 1.1313311656263427,
+                "inputAmount": 3000,
+                "outputAmount": 2972.327092435697,
+                "profitAmount": -27.672907564302932
+            }
+        },
+        {
+            "date": "2019-01-29",
+            "Pay": 1000,
+            "StockPrice": "2592.354980",
+            "stockBuy": 0.3857496398892099,
+            "accumulateResult": {
+                "resProfitPerYear": -4.218513792516242,
+                "resProfitTotal": -1.679700468983636,
+                "duration": 0.39817351598173517,
+                "stockTotal": 1.5170808055155527,
+                "inputAmount": 4000,
+                "outputAmount": 3932.8119812406544,
+                "profitAmount": -67.1880187593456
+            }
+        },
+        {
+            "date": "2019-03-19",
+            "Pay": 1000,
+            "StockPrice": "3099.896973",
+            "stockBuy": 0.32259136632925767,
+            "accumulateResult": {
+                "resProfitPerYear": 26.39998783915604,
+                "resProfitTotal": 14.055883936281255,
+                "duration": 0.532420091324201,
+                "stockTotal": 1.8396721718448104,
+                "inputAmount": 5000,
+                "outputAmount": 5702.794196814063,
+                "profitAmount": 702.7941968140631
+            }
+        },
+        {
+            "date": "2019-05-08",
+            "Pay": 1000,
+            "StockPrice": "2873.143066",
+            "stockBuy": 0.34805088957585517,
+            "accumulateResult": {
+                "resProfitPerYear": 7.111807002108699,
+                "resProfitTotal": 4.760689070817969,
+                "duration": 0.669406392694064,
+                "stockTotal": 2.1877230614206655,
+                "inputAmount": 6000,
+                "outputAmount": 6285.6413442490775,
+                "profitAmount": 285.6413442490775
+            }
+        },
+        {
+            "date": "2019-06-20",
+            "Pay": 1000,
+            "StockPrice": "2917.331055",
+            "stockBuy": 0.3427790611168742,
+            "accumulateResult": {
+                "resProfitPerYear": 6.937887095961007,
+                "resProfitTotal": 5.461606097459715,
+                "duration": 0.787214611872146,
+                "stockTotal": 2.5305021225375395,
+                "inputAmount": 7000,
+                "outputAmount": 7382.31242682218,
+                "profitAmount": 382.31242682218
+            }
+        },
+        {
+            "date": "2019-08-01",
+            "Pay": 1000,
+            "StockPrice": "2920.850098",
+            "stockBuy": 0.34236608057521756,
+            "accumulateResult": {
+                "resProfitPerYear": 5.41982569585354,
+                "resProfitTotal": 4.890217157537258,
+                "duration": 0.902283105022831,
+                "stockTotal": 2.8728682031127573,
+                "inputAmount": 8000,
+                "outputAmount": 8391.217372602981,
+                "profitAmount": 391.2173726029814
+            }
+        },
+        {
+            "date": "2019-09-12",
+            "Pay": 1000,
+            "StockPrice": "3016.629883",
+            "stockBuy": 0.33149575479425825,
+            "accumulateResult": {
+                "resProfitPerYear": 7.277939140398464,
+                "resProfitTotal": 7.404223015893963,
+                "duration": 1.017351598173516,
+                "stockTotal": 3.2043639579070153,
+                "inputAmount": 9000,
+                "outputAmount": 9666.380071430456,
+                "profitAmount": 666.3800714304562
+            }
+        },
+        {
+            "date": "2019-11-01",
+            "Pay": 1000,
+            "StockPrice": "2924.340088",
+            "stockBuy": 0.3419574912314371,
+            "accumulateResult": {
+                "resProfitPerYear": 3.2109313814997207,
+                "resProfitTotal": 3.7064997864983074,
+                "duration": 1.1543378995433788,
+                "stockTotal": 3.5463214491384525,
+                "inputAmount": 10000,
+                "outputAmount": 10370.64997864983,
+                "profitAmount": 370.6499786498298
+            }
+        },
+        {
+            "date": "2019-12-13",
+            "Pay": 1000,
+            "StockPrice": "2937.775879",
+            "stockBuy": 0.3403935634260819,
+            "accumulateResult": {
+                "resProfitPerYear": 2.995656544427083,
+                "resProfitTotal": 3.8027055678115484,
+                "duration": 1.269406392694064,
+                "stockTotal": 3.8867150125645344,
+                "inputAmount": 11000,
+                "outputAmount": 11418.29761245927,
+                "profitAmount": 418.29761245926966
+            }
+        },
+        {
+            "date": "2020-02-04",
+            "Pay": 1000,
+            "StockPrice": "2685.269043",
+            "stockBuy": 0.3724021630558082,
+            "accumulateResult": {
+                "resProfitPerYear": -3.317308613556191,
+                "resProfitTotal": -4.6927041483091685,
+                "duration": 1.4146118721461187,
+                "stockTotal": 4.259117175620343,
+                "inputAmount": 12000,
+                "outputAmount": 11436.8755022029,
+                "profitAmount": -563.1244977971
+            }
+        },
+        {
+            "date": "2020-03-17",
+            "Pay": 1000,
+            "StockPrice": "2796.283936",
+            "stockBuy": 0.3576174747942335,
+            "accumulateResult": {
+                "resProfitPerYear": -0.4540871228330837,
+                "resProfitTotal": -0.6946081559318862,
+                "duration": 1.5296803652968038,
+                "stockTotal": 4.6167346504145765,
+                "inputAmount": 13000,
+                "outputAmount": 12909.700939728855,
+                "profitAmount": -90.29906027114521
+            }
+        },
+        {
+            "date": "2020-04-29",
+            "Pay": 1000,
+            "StockPrice": "2801.383057",
+            "stockBuy": 0.35696653390589844,
+            "accumulateResult": {
+                "resProfitPerYear": -0.28943522320180276,
+                "resProfitTotal": -0.47684122616991065,
+                "duration": 1.6474885844748859,
+                "stockTotal": 4.973701184320475,
+                "inputAmount": 14000,
+                "outputAmount": 13933.242228336212,
+                "profitAmount": -66.75777166378793
+            }
+        },
+        {
+            "date": "2020-06-15",
+            "Pay": 1000,
+            "StockPrice": "2908.280029",
+            "stockBuy": 0.3438458436011906,
+            "accumulateResult": {
+                "resProfitPerYear": 1.7449282876000254,
+                "resProfitTotal": 3.09943883048589,
+                "duration": 1.7762557077625571,
+                "stockTotal": 5.317547027921665,
+                "inputAmount": 15000,
+                "outputAmount": 15464.915824572885,
+                "profitAmount": 464.91582457288496
+            }
+        },
+        {
+            "date": "2020-07-29",
+            "Pay": 1000,
+            "StockPrice": "3221.988037",
+            "stockBuy": 0.3103673845204907,
+            "accumulateResult": {
+                "resProfitPerYear": 7.028511183836718,
+                "resProfitTotal": 13.331705688428187,
+                "duration": 1.8968036529680365,
+                "stockTotal": 5.627914412442156,
+                "inputAmount": 16000,
+                "outputAmount": 18133.07291014851,
+                "profitAmount": 2133.0729101485085
+            }
+        },
+        {
+            "date": "2020-09-09",
+            "Pay": 1000,
+            "StockPrice": "3280.997070",
+            "stockBuy": 0.30478539866541243,
+            "accumulateResult": {
+                "resProfitPerYear": 7.207716519424489,
+                "resProfitTotal": 14.501004102549908,
+                "duration": 2.0118721461187214,
+                "stockTotal": 5.932699811107568,
+                "inputAmount": 17000,
+                "outputAmount": 19465.170697433485,
+                "profitAmount": 2465.1706974334847
+            }
+        },
+        {
+            "date": "2020-10-29",
+            "Pay": 1000,
+            "StockPrice": "3235.760010",
+            "stockBuy": 0.3090464054532895,
+            "accumulateResult": {
+                "resProfitPerYear": 5.6794827315660426,
+                "resProfitTotal": 12.204404445091232,
+                "duration": 2.1488584474885846,
+                "stockTotal": 6.241746216560857,
+                "inputAmount": 18000,
+                "outputAmount": 20196.792800116422,
+                "profitAmount": 2196.792800116422
+            }
+        },
+        {
+            "date": "2020-12-10",
+            "Pay": 1000,
+            "StockPrice": "3365.730957",
+            "stockBuy": 0.29711228044541527,
+            "accumulateResult": {
+                "resProfitPerYear": 6.993061975677953,
+                "resProfitTotal": 15.831781404297395,
+                "duration": 2.2639269406392697,
+                "stockTotal": 6.538858497006273,
+                "inputAmount": 19000,
+                "outputAmount": 22008.038466816506,
+                "profitAmount": 3008.038466816506
+            }
+        }
+    ],
+    "resProfitPerYear": 6.993061975677953,
+    "resProfitTotal": 15.831781404297395,
+    "duration": 2.2639269406392697,
+    "stockTotal": 6.538858497006273,
+    "startPrice": "2815.343994",
+    "endPrice": "3365.730957",
+    "inputAmount": 19000,
+    "outputAmount": 22008.038466816506,
+    "profitAmount": 3008.038466816506,
+    "startDate": "2018-9-6",
+    "amountPerCycle": 1000,
+    "cycleDuration": 30,
+    "targetProfitPerYear": 10,
+    "stockName": "SSE50_from_1997",
+    "endDate": "2020-12-10"
+}
